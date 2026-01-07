@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/izl.dir/link.d CMakeFiles/izl.dir/src/container.cpp.o CMakeFiles/izl.dir/src/log.cpp.o CMakeFiles/izl.dir/src/main.cpp.o -o izl
