@@ -1,7 +1,0 @@
-/home/dani/izl/build/CMakeFiles/izl.dir
-/home/dani/izl/build/CMakeFiles/edit_cache.dir
-/home/dani/izl/build/CMakeFiles/rebuild_cache.dir
-/home/dani/izl/build/CMakeFiles/list_install_components.dir
-/home/dani/izl/build/CMakeFiles/install.dir
-/home/dani/izl/build/CMakeFiles/install/local.dir
-/home/dani/izl/build/CMakeFiles/install/strip.dir
